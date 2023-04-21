@@ -6,6 +6,9 @@ actions:
   - text: Get Started
     link: /guide/
     type: primary
+  - text: ftdws
+    link: /ftdws/
+    type: primary
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
